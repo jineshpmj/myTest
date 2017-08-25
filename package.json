@@ -1,0 +1,21 @@
+{
+  "name": "myTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "typings:": "build/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mypmj/myTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mypmj/myTest/issues"
+  },
+  "homepage": "https://github.com/mypmj/myTest#readme"
+}
